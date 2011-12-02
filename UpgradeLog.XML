@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SoftEdgeWater">
+</Property><Property Name="Solution File" Value="C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\SoftEdgeWater.sln">
+</Property><Property Name="Date" Value="1. desember 2011">
+</Property><Property Name="Time" Value="22:10">
+</Property><Property Name="Solution" Value="SoftEdgeWater">
+</Property><Property Name="Solution File" Value="C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\SoftEdgeWater.sln">
+</Property><Property Name="Date" Value="1. desember 2011">
+</Property><Property Name="Time" Value="22:10:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SoftEdgeWater.sln" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\SoftEdgeWater.sln">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Project file successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlareWindows.csproj">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\Game.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareComponent.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlareComponent.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\PlanarWater.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\PlanarWater.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\ScreenQuad.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\ScreenQuad.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\Skybox.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Skybox.cs">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\Game.ico" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game.ico">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlare.png" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlare.png">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Project file successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Xbox 360 Copy of LensFlareWindows.csproj">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Game.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Game.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\LensFlareComponent.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlareComponent(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\LensFlareComponent.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlareComponent(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\PlanarWater.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\PlanarWater(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\PlanarWater.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\PlanarWater(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Properties\AssemblyInfo.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Properties\AssemblyInfo(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\ScreenQuad.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\ScreenQuad(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\ScreenQuad.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\ScreenQuad(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Skybox.cs" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Skybox(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Skybox.cs" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Skybox(2).cs">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Game.ico" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game(2).ico">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Game.ico" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\Game(2).ico">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\LensFlare.png" Description="Backup file name conflict.  Renaming file to:  C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlare(2).png">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\LensFlare.png" Description="File successfully backed up as C:\Users\490193\Downloads\SoftEdgeWaterSample\SoftEdgeWaterSample\Soft Edged Water\Backup\LensFlare\LensFlare(2).png">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SoftEdgeWater.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SoftEdgeWater.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="LensFlareWindows" Source="LensFlare\LensFlareWindows.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flare1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flare2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="flare3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="glow.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="ground.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Miramar.dds" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="OffsetMap.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="SceneDepth.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Skybox.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="terrain.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Water.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WaterDUDV.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WaterNormal.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="WaterNormala.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="LensFlareContent" Source="LensFlare\Content\LensFlareContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Xbox 360 Copy of LensFlareWindows" Source="LensFlare\Xbox 360 Copy of LensFlareWindows.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event></UpgradeLog>
